@@ -4,6 +4,11 @@
 - [ADALM Pluto SDR](https://wiki.analog.com/university/tools/pluto) ревизии C
 - [GNU Radio](https://www.gnuradio.org/) в сборке [Radioconda](https://github.com/ryanvolz/radioconda). В этой сборке уже включены блоки для ADALM Pluto и некоторых других SDR трансиверов. 
 
+<p align="center">
+  <img width="" height="" src="pics/HW.jpg">
+</p>
+
+
 ## Настройка генератора
 **При установке управляющей программы, имя пользователя ОБЯЗАТЕЛЬНО должно быть написано латиницей, иначе программа будет выбрасывать ошибку. Создание новго пользователя с именем латиницей НЕ ПОМОГАЕТ. Проще всего - установить чистую систему на виртуальную машину**
 
